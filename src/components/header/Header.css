@@ -1,0 +1,24 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem;
+}
+
+.flex-row {
+  display: flex;
+  gap: 1rem;
+}
+.all {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.par1 {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+.par1 img {
+  width: 20px;
+  height: 20px;
+}
